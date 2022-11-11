@@ -1,0 +1,6 @@
+matplotlib==3.6.2
+nltk==3.7
+pandas==1.4.1
+seaborn==0.12.1
+textblob==0.17.1
+
